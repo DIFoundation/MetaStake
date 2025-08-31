@@ -2,6 +2,9 @@
 
 MetaStake is an innovative platform designed to facilitate decentralized staking across multiple blockchain networks. Built for DAOs, DeFi platforms, and community-driven staking operations, MetaStake offers a secure, transparent, and easy-to-use staking solution powered by smart contracts.
 
+### Custom Token Faucet: 
+https://sliskfaucet.vercel.app/
+
 ## Why MetaStake?
 
 Manual staking operations are often cumbersome, opaque, and difficult to audit. MetaStake addresses these challenges by providing:
